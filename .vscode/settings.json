@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Monospace Dark",
+    "java.project.sourcePaths": ["algs-sandbox-java/src"],
+    "java.project.outputPath": "algs-sandbox-java/bin",
+    "java.project.referencedLibraries": [
+        "algs-sandbox-java/lib/**/*.jar"
+    ],
+    "IDX.aI.enableInlineCompletion": true
+}
