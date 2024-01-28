@@ -5,5 +5,5 @@
     "java.project.referencedLibraries": [
         "algs-sandbox-java/lib/**/*.jar"
     ],
-    "IDX.aI.enableInlineCompletion": true
+    "IDX.aI.enableInlineCompletion": false
 }
